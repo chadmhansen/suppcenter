@@ -1,9 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
-<div id="genesys-support-center"></div>
-</head>
 <body>
 <script type="text/javascript">
 (function (g, e, n, es, ys) {
