@@ -2,7 +2,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
    <head>
-    <script type="text/javascript" charset="utf-8">
+    
+    
+</head>
+<body>
+<div id="genesys-support-center"></div>
+   <script type="text/javascript" charset="utf-8">
 (function (g, e, n, es, ys) {
     g['_genesysJs'] = e;
     g[e] = g[e] || function () {
@@ -15,9 +20,5 @@
     environment: 'dev',
     deploymentId: '6bb8cef5-b34f-4ef4-99e1-5d95fb4376f3'
   });</script>
-    
-</head>
-<body>
-<div id="genesys-support-center"></div>
 </body>
 </html>
